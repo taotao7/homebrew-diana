@@ -1,8 +1,8 @@
 class Diana < Formula
   desc "Mission control for AI agents - unified config management and token monitoring"
   homepage "https://github.com/taotao7/Diana"
-  url "https://github.com/taotao7/Diana/archive/refs/tags/v0.1.6.tar.gz"
-  sha256 "1d014b95f3dd7ab988f35933b3d76b8cd26f2987f34e74fe59affab8d50a48cf"
+  url "https://github.com/taotao7/Diana/archive/refs/tags/v0.1.7.tar.gz"
+  sha256 "3ab7c996fb1c7fdf708759172ed54fd916f719bca8fb27af68c0780c2e7c66f1"
   license "MIT"
   head "https://github.com/taotao7/Diana.git", branch: "main"
 
